@@ -1,0 +1,5 @@
+apiVersion: v2
+name: postgres-db
+description: A PostgreSQL database for HashiCorp Vault
+version: 0.1.0
+appVersion: "15"
